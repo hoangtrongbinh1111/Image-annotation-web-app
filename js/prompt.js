@@ -87,7 +87,7 @@ function displayDonationPrompt() {
     title: "A3T",
     content: `<div style="text-align:center;">
 
-                <div>Image Annotation too</div>
+                <div>Image Annotation tool</div>
                 
             <div>`,
     escapeKey: true,
